@@ -11,7 +11,8 @@ import { DbzModule } from './dbz/dbz.module';
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    // ContadorModule,
   ],
   imports: [
     BrowserModule,
